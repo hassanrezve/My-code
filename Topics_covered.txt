@@ -1,0 +1,44 @@
+1. Basic Structure of a C++ Program | tut #2 
+
+2. Variables & Comments in C++ in Hindi | tut #3 // no code
+
+3. Variable Scope & Data Types in C++ in Hindi | tut #4 // no code
+
+4. C++ Basic Input/Output & More | tut #5
+
+5. C++ Header files & Operators | tut #6
+
+6. C++ Reference Variables & Typecasting | tut #7
+
+7. Constants, Manipulators & Operator Precedence | tut #8
+
+8. C++ Control Structures, If Else and Switch-Case Statement |tut #9
+
+9. For, While and do-while loops in C++ | tut #10
+
+10. Break and Continue Statements in C++ | tut #11
+
+11. Pointers in C++ | tut  #12
+
+12. Arrays & Pointers Arithmetic in C++ | tut #13
+
+13. Structures, Unions & Enums in C++ | tut  #14
+
+14. Functions & Function Prototypes in C++ |tut #15
+
+15. Call by Value & Call by Reference in C++ | tut #16
+
+16. Inline Functions, Default Arguments & Constant Arguments in C++ | tut #17
+
+17. Recursions & Recursive Functions in C++ | tut #18
+
+18. Function Overloading with Examples in C++ | tut #19
+
+19. Classes, Public and Private access modifiers in C++ |tut #21
+
+20. OOPs Recap & Nesting of Member Functions in C++ | tut #22
+
+21. C++ Objects Memory Allocation & using Arrays in Classes |tut #23 //curently studying
+
+22.
+23.
