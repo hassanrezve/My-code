@@ -1,1 +1,0 @@
-cout << "Enter the price of your item" << endl;
