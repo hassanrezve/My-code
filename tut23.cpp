@@ -3,8 +3,8 @@ using namespace std;
 
 class Shop
 {
-    int itemId[5];
-    int itemPrice[5];
+    int itemId[100];
+    int itemPrice[100];
     int counter;
 
 public:
